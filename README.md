@@ -29,7 +29,7 @@ decision-making for improved performance and customer satisfaction.
 💠<b>Call Analysis Dashboard :-<b>
 ![Dashboard Preview](https://github.com/SakshiSunilMore/Call-Center-Dashboard/blob/main/Call%20Analysis.png)
 
-Agent Analysis Dashboard :-
+💠<b>Agent Analysis Dashboard :-<b>
 ![Dashboard Preview](https://github.com/SakshiSunilMore/Call-Center-Dashboard/blob/main/Agent%20Analysis.png)
 
 ✨Feedback and suggestions are appreciated!
