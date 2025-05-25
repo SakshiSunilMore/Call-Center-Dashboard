@@ -26,8 +26,10 @@ decision-making for improved performance and customer satisfaction.
 • Data Modeling - Relationships established among tables to enable cross-filtering and aggregation.
 • File Format - -pbix for development and -png for dashboard previews
 
-So what the dashboard looks like -
+Call Analysis Dashboard :-
 ![Dashboard Preview](https://github.com/SakshiSunilMore/Call-Center-Dashboard/blob/main/Call%20Analysis.png)
+
+Agent Analysis Dashboard :-
 ![Dashboard Preview](https://github.com/SakshiSunilMore/Call-Center-Dashboard/blob/main/Agent%20Analysis.png)
 
 ✨Feedback and suggestions are appreciated!
