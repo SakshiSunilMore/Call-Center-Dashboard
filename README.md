@@ -27,7 +27,7 @@ decision-making for improved performance and customer satisfaction.
 • File Format - -pbix for development and -png for dashboard previews
 
 So what the dashboard looks like -
-https://github.com/SakshiSunilMore/Call-Center-Dashboard/blob/main/Call%20Analysis.png
-https://github.com/SakshiSunilMore/Call-Center-Dashboard/blob/main/Agent%20Analysis.png
+![Dashboard Preview](https://github.com/SakshiSunilMore/Call-Center-Dashboard/blob/main/Call%20Analysis.png)
+![Dashboard Preview](https://github.com/SakshiSunilMore/Call-Center-Dashboard/blob/main/Agent%20Analysis.png)
 
 ✨Feedback and suggestions are appreciated!
